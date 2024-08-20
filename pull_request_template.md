@@ -7,7 +7,7 @@
 <deleted this section if not applicable>
 
 ## Changes
-<List important changes you made>
+<List of important changes you made>
 
 ## Testing
 <Try to add information on how to test the pull request>
